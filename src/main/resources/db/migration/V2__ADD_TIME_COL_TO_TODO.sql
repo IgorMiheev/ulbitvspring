@@ -1,0 +1,3 @@
+ALTER TABLE todo ADD date VARCHAR(255);
+
+UPDATE todo SET date='TODAy 02/09/2021';
